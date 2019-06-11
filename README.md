@@ -1,13 +1,21 @@
-# Sample Snack app
+# React Pomodoro Timer
 
-Welcome to Expo!
+A clean Pomodoro timer built using React Native that locks you out of your phone so you can bloody focus for once! Also added an emergency call feature for safety, of course.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+<p>
+Based on <a href="https://www.freecodecamp.org/news/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033/">this</a> React and Redux tutorial.
+</p>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+## Changes from the tutorial
+- Linear gradient background (thought it would add a more calming and focused effect, instead of the plain black one used in the tutorial)
+- Emergency call button (which I thought was very important)
+- Minor font and margin changes 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+## How the app looks like
+<p float="left">
+<img height=600px src="https://github.com/athiyadeviyani/react-pomodoro/blob/master/IMG_0115.PNG">
+<img height=600px src="https://github.com/athiyadeviyani/react-pomodoro/blob/master/IMG_0116.PNG">
+<img height=600px src="https://github.com/athiyadeviyani/react-pomodoro/blob/master/IMG_0114.PNG">
+ </p>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
